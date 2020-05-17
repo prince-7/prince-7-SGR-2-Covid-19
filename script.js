@@ -9,11 +9,11 @@ function scrollFunction() {
 }
 
 function openNav() {
-  document.getElementById("container").style.left = "0px";
+  document.getElementById("SideBar").style.left = "0px";
  }
 
 function closeNav() {
-  document.getElementById("container").style.left = "-500px";
+  document.getElementById("SideBar").style.left = "-500px";
 }
 
 
