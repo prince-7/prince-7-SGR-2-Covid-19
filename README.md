@@ -41,8 +41,9 @@ This website is a comprehensive repository of the different information that a u
    * **<a name="up">up</a>**:- This is a button which triggers [hide()](#hide) function.
    * **<a name="data">data</a>**:- This is a container for an <a name="iframe">iframe</a>. This i frame shows the statistics of the country entered in input bar.
    
-* **<a name="donate">donate</a>**:-this component contains text encouraging to donate and DONATE NOW [button](#tracker).
-* **<a name="resources">resources</a>**:- 
+* **<a name="donate">donate</a>**:-this component contains text encouraging to donate and DONATE NOW [button](#tracker)(tracker).
+* **<a name="resources">resources</a>**:- This component contains resorces such as links to important goverment sites and news
+ * **<a name="res">res</a>**:- This is a button which contains the links.
 
 
 
