@@ -78,6 +78,14 @@ This website is a comprehensive repository of the different information that a u
 | <a name="">getData()</a>|  called by show function | Takes the input entered in [country](#country) and sticks it in front of this [url](https://www.worldometers.info/coronavirus/country/) and changes the [iframe](#iframe) source link|
 | <a name="hide">hide()</a>| click on [up](#up)| Hides [myDiv](#myDiv)|
 
+
+## Main Features, Design Details and Effects:-
+- The [Search](#country) section of the website shows the statistics of the country. It is made using [iframe](#iframe) tag.
+- The buttons respond when cursor is hovered over them.
+- The top [scroll-bar](#scroll-bar) comes up when the [SideBar](#SideBar) is not in frame.
+- The [expand](#expand) element expands to show it content when the user hovers over it.
+- Some elements are skewed to give a good-design look to the website.
+
 ## References
  The information used for making this side was taken from:
   - [WHO](https://www.who.int/health-topics/coronavirus#tab=tab_1)
