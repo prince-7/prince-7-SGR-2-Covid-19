@@ -19,9 +19,9 @@ This website is a comprehensive repository of the all different information that
 
 * <a name="top">**top**</a>:- This is a top bar that contains Title and menu button.
   * <a name="main">**main-nav**</a>:- This is the top Main Title bar. This contains the main title **COVID-19**.
-     * <a name="menu">**menu**</a>:- This component when clicked opens the [Side-Bar](#Sidebar)(container) by calling [openNav()](#open) function.
+     * <a name="menu">**menu**</a>:- ☰ This component when clicked opens the [Side-Bar](#Sidebar)(container) by calling [openNav()](#open) function.
 * <a name="SideBar">**container**</a>(Side Bar):- This is the bar which contains a list of [elements](#element)(g1).
-   * <a name="close">**close**</a> :- This component when clicked closes the [Sidebar](#SideBar)(container) by calling [closeNav()](#close) function.
+   * <a name="close">**close**</a> :- ◀ This component when clicked closes the [Sidebar](#SideBar)(container) by calling [closeNav()](#close) function.
    * <a name="elements">**g1**</a>:- These are elements which have links to different sites.
 * <a name="scroll_bar">**scroll_bar**</a>:- This it the top manu bar which gets activated when page is scrolled down uses [scrollFunction()](#scroll) contains same [elements](#element) as [Sidebar](#SideBar)(container).
 
@@ -36,7 +36,7 @@ This website is a comprehensive repository of the all different information that
   * <a name="tracker">**tracker**</a>:-This is a button which responds on hovering.
   * **push**
     * <a name="country">**country**</a>:- This is a text input bar, the user is supposed to enter name of a country of which the user wants to see the data of. Uses [input](#input) variable in script.js file.
-      * <a name="search">**search**</a>:- This is a button which searches the data of the country entered in text bar by using [show()](#show) function.
+      * <a name="search">**search**</a>:- 🔎 This is a button which searches the data of the country entered in text bar by using [show()](#show) function.
  * **<a name="myDiv">myDiv</a>**:- This is a hidden component which is shown when something is searched.
    * **<a name="up">up</a>**:- This is a button which triggers [hide()](#hide) function.
    * **<a name="data">data</a>**:- This is a container for an <a name="iframe">iframe</a>. This i frame shows the statistics of the country entered in input bar.
