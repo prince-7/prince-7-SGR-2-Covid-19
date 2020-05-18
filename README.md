@@ -11,11 +11,11 @@ This website is a comprehensive repository of the all different information that
 
 
 ## Project Contents and Details
- * [Classes and IDs](#HTML)
+ * [Descriptions and usage Classes and IDs](#HTML)
  * [Design Specifications](#CSS)
  * [Functions & Variables](#JS)
 
-### **<a name="HTML">Classes and IDs</a>**
+### **<a name="HTML">Description and Usage of Classes and IDs</a>**
 
 * <a name="top">**top**</a>:- This is a top bar that contains Title and menu button.
   * <a name="main">**main-nav**</a>:- This is the top Main Title bar. This contains the main title **COVID-19**.
