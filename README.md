@@ -20,7 +20,7 @@ This website is a comprehensive repository of the different information that a u
 * **top**:- This is a top bar that contains Title and menu button.
   * **main-nav**:- This is the top Main Title bar. This contains the main title **COVID-19**.
      * <a name="menu">**menu**</a>:- This component when clicked opens the [Side-Bar](#Sidebar)(container) by calling [openNav()](#open) function.
-* <a name="SideBar">**container**</a>:- This is the bar which contains a list of [elements](#element).
+* <a name="SideBar">**container**</a>(Side Bar):- This is the bar which contains a list of [elements](#element).
    * <a name="close">**close**</a> :- This component when clicked closes the [Sidebar](#SideBar)(container) by calling [closeNav()](#close) function.
    * <a name="elements">**g1**</a>:- These are elements which have links to different sites.
 * <a name="scroll_bar">**scroll_bar**</a>:- This it the top manu bar which gets activated when page is scrolled down uses [scrollFunction()](#scroll) contains same [elements](#element) as [Sidebar](#SideBar)(container).
@@ -44,15 +44,18 @@ This website is a comprehensive repository of the different information that a u
 * **<a name="donate">donate</a>**:-this component contains text encouraging to donate and DONATE NOW [button](#tracker)(tracker).
 * **<a name="resources">resources</a>**:- This component contains resorces such as links to important goverment sites and news
  * **<a name="res">res</a>**:- This is a button which contains the links.
-
-
-
+ 
+ * **footer**:- Contains the name of the creator.
 
 
 
 ### **<a name="CSS">Design Specifications</a>**
-- Color Codes:-
-- Font :-
+
+
+Color Codes:-
+- text color:- Variable.
+- Images :-
+- Font :- Helvetica
 - Frontend Framework :- Manual
 
 
@@ -66,3 +69,9 @@ This website is a comprehensive repository of the different information that a u
 | <a name="show">show()</a>| click on [search](#search) | Opens the [myDiv](#myDiv) Component and triggers [getData()](#get)|
 | <a name="">getData()</a>|  called by show function | Takes the input entered in [country](#country) and sticks it in front of this [url](https://www.worldometers.info/coronavirus/country/) and changes the [iframe](#iframe) source link|
 | <a name="hide">hide()</a>| click on [up](#up)| Hides [myDiv](#myDiv)|
+
+## References
+ The information used for making this side was taken from:
+  - [WHO](https://www.who.int/health-topics/coronavirus#tab=tab_1)
+  - [World Meters](https://www.worldometers.info/coronavirus/country/)
+  - [Gov of India]-(https://www.mygov.in/covid-19/?cbps=1)
