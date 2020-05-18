@@ -22,17 +22,17 @@ Three Main Components of Frontend:-
 ## Project Contents and Details
 
 ### Classes
+
 * top:- This is a top bar that contains Title and menu button.
   * main-nav:- This is the top Main Title bar. This contains the main title **COVID-19**.
-     * menu :- This component when clicked opens the Side-Bar by calling [openNav()](#open).
-* <a name="SideBar">container</a>:-
+     * menu :- This component when clicked opens the [Side-Bar](#Sidebar) by calling [openNav()](#open) function.
+* <a name="SideBar">container</a>:- This is the bar which contains a list of [elements](#element) having links to different sites. 
+   * close :- This component when clicked closes the [Sidebar](#SideBar) by calling [closeNav()](#close) function.
  
 
 
 ### Functions
-- <a name="open"> openNav-</a> This Function Opens the [Sidebar](#SideBar).
-
-| Syntax | Description |
+| Name | Action Performed |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| <a name="open"> openNav</a> | This Function Opens the [Sidebar](#SideBar) |
+| <a name="close"> closeNav()</a> |  This function |
