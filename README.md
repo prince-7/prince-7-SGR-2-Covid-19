@@ -54,5 +54,8 @@ Three Main Components of Frontend:-
 | <a name="open"> openNav()</a>| click on [menu](#menu) | Opens the [Sidebar](#SideBar)(container) |
 | <a name="close"> closeNav()</a> | click on [close](#close) |Closes the [Sidebar](#SideBar)(container)|
 | <a name="scroll"> scrollFunction()</a> | scroll the window down more than 50px|Activates the [scroll_bar](#scroll_bar)|
-|<a name="input">var input</a>| when "Enter" key is pressed| Triggers show() Function|
-| <a name="show()">show()</a>| click on [search](#search) | Opens the [myDiv](#myDiv) Component.|
+|<a name="input">var input</a>| when "Enter" key is pressed| Triggers [show()](#show) Function|
+| <a name="show">show()</a>| click on [search](#search) | Opens the [myDiv](#myDiv) Component and triggers [getData()](#get)|
+| <a name="">getData()</a>|  called by show function | Takes the input entered in [country](#country) and sticks it in front of this [url](https://www.worldometers.info/coronavirus/country/) and changes the [iframe](#iframe) source link|
+| <a name="hide">hide()</a>| click on [up](#up)| Hides [myDiv](#myDiv)|
+| <a name="">
