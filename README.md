@@ -4,7 +4,7 @@
 - Project Name:- COVID-19
 - URL:-https://prince-7.github.io/prince-7-SGR-2-Covid-19/
 
-This website is a comprehensive repository of the different information that a user would like to know about the current COVID-19 situation.
+This website is a comprehensive repository of the all different information that a user would like to know about the current COVID-19 situation.
 
 
 **Note:- Use Desktop For best experience**
@@ -81,10 +81,11 @@ This website is a comprehensive repository of the different information that a u
 
 ## Main Features, Design Details and Effects:-
 - The [Search](#country) section of the website shows the statistics of the country. It is made using [iframe](#iframe) tag.
-- The buttons respond when cursor is hovered over them.
+- The buttons and options respond when cursor is hovered over them.
 - The top [scroll-bar](#scroll-bar) comes up when the [SideBar](#SideBar) is not in frame.
-- The [expand](#expand) element expands to show it content when the user hovers over it.
+- The [expand](#expand) element expands to show it's content when the user hovers over it.
 - Some elements are skewed to give a good-design look to the website.
+- Search bar expands on selecting.
 
 ## References
  The information used for making this side was taken from:
