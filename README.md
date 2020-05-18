@@ -52,15 +52,23 @@ This website is a comprehensive repository of the different information that a u
 ### **<a name="CSS">Design Specifications</a>**
 
 
-Color Codes:-
-- text color:- Variable.
-- Images :-
+|Color Codes| Component|
+|-----------|-------|
+| #D83F87 | body, head_content|
+| #2A1B3D | main-nav, container, footer, scroll_bar|
+| #2A1B3D | top |
+| linear-gradient(to right, #44318D, #904E95)|banner|
+| #FFFFFF | box|
+| #DC143C | contact|
+| #A4B3B6 | content |
+
+- Images :- images folder in the repo.
 - Font :- Helvetica
 - Frontend Framework :- Manual
 
 
 ### **<a name="JS">Functions & Variables</a>**
-| Name |Trigger |  Action Performed |
+| Name |Trigger |  Usage & Action Performed |
 | -----------|---------- | ----------- |
 | <a name="open"> openNav()</a>| click on [menu](#menu) | Opens the [Sidebar](#SideBar)(container) |
 | <a name="close"> closeNav()</a> | click on [close](#close) |Closes the [Sidebar](#SideBar)(container)|
@@ -74,4 +82,4 @@ Color Codes:-
  The information used for making this side was taken from:
   - [WHO](https://www.who.int/health-topics/coronavirus#tab=tab_1)
   - [World Meters](https://www.worldometers.info/coronavirus/country/)
-  - [Gov of India]-(https://www.mygov.in/covid-19/?cbps=1)
+  - [Gov of India](https://www.mygov.in/covid-19/?cbps=1)
