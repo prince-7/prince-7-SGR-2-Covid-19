@@ -6,8 +6,13 @@
 
 This website is a comprehensive repository of the different information that a user would like to know about the current COVID-19 situation.
 
+Three Main Components of Frontend:-
+- HTML
+- CSS
+- JavaScript
+
 ## Design Specifications
-- Color Codes:
+- Color Codes:-
 - Font :-
 - Frontend Framework :- Manual
 
@@ -17,12 +22,15 @@ This website is a comprehensive repository of the different information that a u
 ## Project Contents and Details
 
 ### Classes
-- main-nav:- This is the top Main Title bar.
- - menu :- This component when clicked opens the Side-Bar by calling [openNav()](#open).
+* top:- This is a top bar that contains Title and menu button.
+  * main-nav:- This is the top Main Title bar. This contains the main title **COVID-19**.
+     * menu :- This component when clicked opens the Side-Bar by calling [openNav()](#open).
+* <a name="SideBar">container</a>:-
+ 
 
 
 ### Functions
-- <a name="open"> openNav-</a>
+- <a name="open"> openNav-</a> This Function Opens the [Sidebar](#SideBar).
 
 | Syntax | Description |
 | ----------- | ----------- |
