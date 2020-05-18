@@ -29,7 +29,7 @@ This website is a comprehensive repository of the different information that a u
 * <a name="head-content">**head-content**</a> :- Contains text, stacked above white box.
 * <a name="banner">**banner**</a>:- Forms the top portion of  website background.
 * **steps**:- Contains list of expand elements.
-   * **expand**:- This component opens up on hovering and shows the text inside.
+   * <a name="expand">**expand**</a>:- This component opens up on hovering and shows the text inside.
 * <a name="contact">**contact**</a>:- This component is at the right end on the website with fixed position. Contains 2 expand elements. Expands on hovering.
 * <a name="content">**content**</a>
   * **inst**:-Contains text.
