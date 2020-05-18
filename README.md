@@ -17,21 +17,21 @@ This website is a comprehensive repository of the different information that a u
 
 ### **<a name="HTML">Classes and IDs</a>**
 
-* **top**:- This is a top bar that contains Title and menu button.
-  * **main-nav**:- This is the top Main Title bar. This contains the main title **COVID-19**.
+* <a name="top">**top**</a>:- This is a top bar that contains Title and menu button.
+  * <a name="main">**main-nav**</a>:- This is the top Main Title bar. This contains the main title **COVID-19**.
      * <a name="menu">**menu**</a>:- This component when clicked opens the [Side-Bar](#Sidebar)(container) by calling [openNav()](#open) function.
-* <a name="SideBar">**container**</a>(Side Bar):- This is the bar which contains a list of [elements](#element).
+* <a name="SideBar">**container**</a>(Side Bar):- This is the bar which contains a list of [elements](#element)(g1).
    * <a name="close">**close**</a> :- This component when clicked closes the [Sidebar](#SideBar)(container) by calling [closeNav()](#close) function.
    * <a name="elements">**g1**</a>:- These are elements which have links to different sites.
 * <a name="scroll_bar">**scroll_bar**</a>:- This it the top manu bar which gets activated when page is scrolled down uses [scrollFunction()](#scroll) contains same [elements](#element) as [Sidebar](#SideBar)(container).
 
-* **box**:- White box for design.
-* **head-content** :- Contains text, stacked above white box.
-* **banner**:- Forms the top portion of  website background.
+* <a name="box">**box**</a>:- White box for design.
+* <a name="head-content">**head-content**</a> :- Contains text, stacked above white box.
+* <a name="banner">**banner**</a>:- Forms the top portion of  website background.
 * **steps**:- Contains list of expand elements.
    * **expand**:- This component opens up on hovering and shows the text inside.
-* **contact**:- This component is at the right end on the website with fixed position. Contains 2 expand elements. Expands on hovering.
-* **content**
+* <a name="contact">**contact**</a>:- This component is at the right end on the website with fixed position. Contains 2 expand elements. Expands on hovering.
+* <a name="content">**content**</a>
   * **inst**:-Contains text.
   * <a name="tracker">**tracker**</a>:-This is a button which responds on hovering.
   * **push**
@@ -54,13 +54,13 @@ This website is a comprehensive repository of the different information that a u
 
 |Color Codes| Component|
 |-----------|-------|
-| #D83F87 | body, head-content|
-| #2A1B3D | main-nav, [Sidebar](#SideBar)(container), footer, [scroll_bar](#scroll_bar)|
-| #2A1B3D | top |
-| linear-gradient(to right, #44318D, #904E95)|banner|
-| #FFFFFF | box|
-| #DC143C | contact|
-| #A4B3B6 | content |
+| #D83F87 | body, [head-content](#head-content}|
+| #2A1B3D | [main-nav](#main), [Sidebar](#SideBar)(container), footer, [scroll_bar](#scroll_bar)|
+| #2A1B3D | [top](#top) |
+| linear-gradient(to right, #44318D, #904E95)|[banner](#banner)|
+| #FFFFFF | [box](#box)|
+| #DC143C | [contact](#contact)|
+| #A4B3B6 | [content](#content) |
 
 - Images :- images folder in the repo.
 - Font :- Helvetica
