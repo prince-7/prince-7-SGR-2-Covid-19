@@ -11,10 +11,18 @@ This website is a comprehensive repository of the different information that a u
 - Font :-
 - Frontend Framework :- Manual
 
+**Note:- Use Desktop For best experience**
+
 
 ## Project Contents and Details
 
+### Classes
+- main-nav:- This is the top Main Title bar.
+ - menu :- This component when clicked opens the Side-Bar by calling [openNav()](#open).
 
+
+### Functions
+- <a name="open"> openNav-</a>
 
 | Syntax | Description |
 | ----------- | ----------- |
