@@ -54,8 +54,8 @@ This website is a comprehensive repository of the different information that a u
 
 |Color Codes| Component|
 |-----------|-------|
-| #D83F87 | body, head_content|
-| #2A1B3D | main-nav, container, footer, scroll_bar|
+| #D83F87 | body, head-content|
+| #2A1B3D | main-nav, [Sidebar](#SideBar)(container), footer, [scroll_bar](#scroll_bar)|
 | #2A1B3D | top |
 | linear-gradient(to right, #44318D, #904E95)|banner|
 | #FFFFFF | box|
