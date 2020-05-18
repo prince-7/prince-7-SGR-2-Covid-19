@@ -11,8 +11,11 @@ This website is a comprehensive repository of the different information that a u
 
 
 ## Project Contents and Details
+ * [Classes and IDs](#HTML)
+ * [Design Specifications](#CSS)
+ * [Functions & Variables](#JS)
 
-### Classes and IDs
+### **<a name="HTML">Classes and IDs</a>**
 
 * **top**:- This is a top bar that contains Title and menu button.
   * **main-nav**:- This is the top Main Title bar. This contains the main title **COVID-19**.
@@ -37,21 +40,22 @@ This website is a comprehensive repository of the different information that a u
  * **<a name="myDiv">myDiv</a>**:- This is a hidden component which is shown when something is searched.
    * **<a name="up">up</a>**:- This is a button which triggers [hide()](#hide) function.
    * **<a name="data">data</a>**:- This is a container for an <a name="iframe">iframe</a>. This i frame shows the statistics of the country entered in input bar.
-
-* **<a name="donate">donate</a>**:-this component contains text and DONATE NOW [button](#tracker).
-
-
-
+   
+* **<a name="donate">donate</a>**:-this component contains text encouraging to donate and DONATE NOW [button](#tracker).
+* **<a name="resources">resources</a>**:- 
 
 
 
-## Design Specifications
+
+
+
+### **<a name="CSS">Design Specifications</a>**
 - Color Codes:-
 - Font :-
 - Frontend Framework :- Manual
 
 
-### Functions & Variables
+### **<a name="JS">Functions & Variables</a>**
 | Name |Trigger |  Action Performed |
 | -----------|---------- | ----------- |
 | <a name="open"> openNav()</a>| click on [menu](#menu) | Opens the [Sidebar](#SideBar)(container) |
