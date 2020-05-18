@@ -90,5 +90,5 @@ This website is a comprehensive repository of the all different information that
 ## References
  The information used for making this side was taken from:
   - [WHO](https://www.who.int/health-topics/coronavirus#tab=tab_1)
-  - [World Meters](https://www.worldometers.info/coronavirus/country/)
+  - [World Meters](https://www.worldometers.info/coronavirus/)
   - [Gov of India](https://www.mygov.in/covid-19/?cbps=1)
